@@ -1,0 +1,21 @@
+{
+  "name": "student-management-api",
+  "version": "1.0.0",
+  "description": "Express + SQLite CRUD API for student data",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "sqlite",
+    "crud",
+    "students"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
+}
